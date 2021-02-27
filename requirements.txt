@@ -1,0 +1,4 @@
+streamlit
+pandas
+ibm_watson
+python-dotenv
